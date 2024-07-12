@@ -78,8 +78,12 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 <h4>💜 Agradecimento em especial a todos os colaboradores que tornaram este projeto possível.</h4> 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Jaogoisv"><img src="https://avatars.githubusercontent.com/u/87292480?v=4" width="80px;" alt=""/><br /><sub><b>Mayara Gregório</b></sub></a><br /><a href="https://github.com/mayara-gregorio"></a></td>
+    <td align="center"><a href="https://github.com/Jaogoisv"><img src="https://avatars.githubusercontent.com/u/87292480?v=4" width="80px;" alt=""/><br /><sub><b>Jaogoisv</b></sub></a><br /><a href="https://github.com/Jaogoisv"></a></td>
     <td align="center"><a href="https://github.com/Gabrielly1704"><img src="https://avatars.githubusercontent.com/u/153733849?v=4" width="80px;" alt=""/><br /><sub><b>Mônica Gabrielly</b></sub></a><br /><a href="https://github.com/Gabrielly1704"></a></td>
+    <td align="center"><a href="https://github.com/Erikaguimaraes"><img src="https://avatars.githubusercontent.com/u/150470453?v=4" width="80px;" alt=""/><br /><sub><b>Erika Guimarães</b></sub></a><br /><a href="https://github.com/Erikaguimaraes"></a></td>
+</tr>
+    <td align="center"><a href="https://github.com/NaellyV"><img src="https://avatars.githubusercontent.com/u/132831751?v=4" width="80px;" alt=""/><br /><sub><b>Josué Hudson</b></sub></a><br /><a href="https://github.com/NaellyV"></a></td>
+</tr>
     <td align="center"><a href=""><img src="" width="80px;" alt=""/><br /><sub><b>Josué Hudson</b></sub></a><br /><a href=""></a></td>
 </tr>
   
