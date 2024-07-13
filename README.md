@@ -24,7 +24,7 @@ interface intuitiva e de fácil uso com uma API para operações CRUD, que permi
 Os usuários são capazes de:
   - [x] Adicionar novos contatos
   - [x] Editar contatos existentes
-  - [x] Excluir contatos
+  - [x] Excluir contatos existentes 
   - [x] Visualizar lista de contatos;
 
 ## Pré-Requisitos
