@@ -84,7 +84,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </tr>
     <td align="center"><a href="https://github.com/NaellyV"><img src="https://avatars.githubusercontent.com/u/132831751?v=4" width="80px;" alt=""/><br /><sub><b>NaellyV</b></sub></a><br /><a href="https://github.com/NaellyV"></a></td>
 </tr>
-    <td align="center"><a href=""><img src="" width="80px;" alt=""/><br /><sub><b>Josué Hudson</b></sub></a><br /><a href=""></a></td>
+    <td align="center"><a href=""><img src="" width="80px;" alt=""/><br /><sub><b>Ederson Oliveira</b></sub></a><br /><a href=""></a></td>
 </tr>
   
 </table>
