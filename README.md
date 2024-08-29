@@ -68,7 +68,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Docker](https://www.docker.com/)
 - [React Router](https://reactrouter.com/en/main)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Postgresql](https://www.postgresql.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/docs)
 
