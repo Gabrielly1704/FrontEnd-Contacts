@@ -65,11 +65,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [React](https://react.dev/learn/start-a-new-react-project)
 - [Node.js](https://nodejs.org/en/)
-- [Docker](https://www.docker.com/)
-- [React Router](https://reactrouter.com/en/main)
+- [React Router Dom](https://reactrouter.com/en/main)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [Prisma](https://www.prisma.io/docs)
 
 
 ## 👨‍💻 Colaboradores
