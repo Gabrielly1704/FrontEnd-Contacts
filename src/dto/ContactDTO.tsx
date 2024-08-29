@@ -3,5 +3,5 @@ export type Contact = {
   name: string;
   phone: number;
   email: string;
-  adress: string;
+  adress: number;
 };
